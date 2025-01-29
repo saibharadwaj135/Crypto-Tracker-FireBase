@@ -25,9 +25,6 @@ The **Cryptocurrency Tracker App** is an **iOS application** that provides **rea
 
 ### **Setup & Installation**  
 1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/Crypto-Tracker-App.git
-   ```  
 2. Open the project in **Xcode** and install dependencies.  
 3. Configure **Firebase Authentication** and **CoinGecko API** access.  
 4. Build and run the app on a **physical iOS device** or **simulator**.  
